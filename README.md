@@ -1,4 +1,4 @@
 # Amlan-demo
 This is my first repository
 <br>
-Author-Amlan kumar mohapatra
+Author-Amlan kumar mohapatra(Hrx)
